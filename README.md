@@ -26,10 +26,10 @@ I am passionate about coding, community building, and continuous learning. I'm c
 ---
 
 ### 📊 GitHub Stats
-/*
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Muskan's GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium" alt="Muskan's GitHub Streak" />
-</p> */
+</p> 
